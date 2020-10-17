@@ -1,1 +1,1 @@
-# sequencr
+# Sequence Anything (sequencer)
