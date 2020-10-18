@@ -1,0 +1,31 @@
+{
+  "name": "@zoltanradics/sequencer",
+  "version": "0.0.1",
+  "description": "Simple utulity to generate a sequence of anything: alphabetical, numerical and even custom data structure, depends on your need, with Typescript support.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.5.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoltanradics/sequencr.git"
+  },
+  "keywords": [
+    "sequencer",
+    "utulity",
+    "helper"
+  ],
+  "author": "Zoltan Radics",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zoltanradics/sequencr/issues"
+  },
+  "homepage": "https://github.com/zoltanradics/sequencr#readme"
+}
